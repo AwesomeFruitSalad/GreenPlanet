@@ -25,7 +25,7 @@ import com.mikhaellopez.circularimageview.CircularImageView;
 
 import org.fruitsalad.greenplanet.R;
 import org.fruitsalad.greenplanet.roomdb.UserDatabase;
-import org.fruitsalad.utility.MockData;
+import org.fruitsalad.greenplanet.utility.MockData;
 
 import ir.alirezaiyan.progressbar.LevelProgressBar;
 

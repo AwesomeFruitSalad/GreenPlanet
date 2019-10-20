@@ -14,7 +14,6 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import org.fruitsalad.greenplanet.roomdb.UserDatabase;
 import org.fruitsalad.greenplanet.utility.MockData;
-import org.fruitsalad.utility.MockData;
 
 public class MainActivity extends AppCompatActivity {
 
