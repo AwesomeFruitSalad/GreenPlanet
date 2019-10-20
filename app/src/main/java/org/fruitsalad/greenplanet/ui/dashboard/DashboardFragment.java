@@ -31,7 +31,7 @@ import com.google.android.gms.fitness.request.OnDataPointListener;
 import com.google.android.gms.fitness.request.SensorRequest;
 import com.google.android.gms.fitness.result.DataSourcesResult;
 
-import org.fruitsalad.R;
+import org.fruitsalad.greenplanet.R;
 
 import java.util.Timer;
 import java.util.TimerTask;

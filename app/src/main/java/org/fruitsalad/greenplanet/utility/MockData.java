@@ -2,7 +2,7 @@ package org.fruitsalad.greenplanet.utility;
 
 import com.anychart.chart.common.dataentry.DataEntry;
 
-import org.fruitsalad.model.SaviourOfEarth;
+import org.fruitsalad.greenplanet.model.SaviourOfEarth;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

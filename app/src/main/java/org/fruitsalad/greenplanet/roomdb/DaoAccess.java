@@ -4,7 +4,8 @@ import androidx.room.Dao;
 import androidx.room.Insert;
 import androidx.room.Query;
 
-import org.fruitsalad.model.SaviourOfEarth;
+
+import org.fruitsalad.greenplanet.model.SaviourOfEarth;
 
 import java.util.List;
 

@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.fruitsalad.R;
-import org.fruitsalad.model.SaviourOfEarth;
+import org.fruitsalad.greenplanet.R;
+import org.fruitsalad.greenplanet.model.SaviourOfEarth;
 
 import java.util.List;
 

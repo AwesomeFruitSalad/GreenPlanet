@@ -4,7 +4,8 @@ import androidx.room.Database;
 import androidx.room.RoomDatabase;
 import androidx.room.TypeConverters;
 
-import org.fruitsalad.model.SaviourOfEarth;
+import org.fruitsalad.greenplanet.model.SaviourOfEarth;
+
 
 @Database(entities = {SaviourOfEarth.class}, version = 1, exportSchema = false)
 @TypeConverters({Converters.class})

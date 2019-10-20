@@ -25,7 +25,7 @@ import com.google.firebase.ml.vision.objects.FirebaseVisionObject;
 import com.google.firebase.ml.vision.objects.FirebaseVisionObjectDetector;
 import com.google.firebase.ml.vision.objects.FirebaseVisionObjectDetectorOptions;
 
-import org.fruitsalad.R;
+import org.fruitsalad.greenplanet.R;
 
 import java.util.List;
 
