@@ -4,8 +4,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import org.fruitsalad.ui.achievements.nestedfragments.AchievementFragment;
-import org.fruitsalad.ui.achievements.nestedfragments.LeaderBoardFragment;
+import org.fruitsalad.greenplanet.ui.achievements.nestedfragments.AchievementFragment;
+import org.fruitsalad.greenplanet.ui.achievements.nestedfragments.LeaderBoardFragment;
+
 
 public class AchievementsPagerAdapter extends FragmentPagerAdapter {
 

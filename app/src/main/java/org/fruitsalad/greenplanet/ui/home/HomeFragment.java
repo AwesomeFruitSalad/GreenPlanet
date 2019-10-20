@@ -23,8 +23,8 @@ import com.anychart.graphics.vector.SolidFill;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.mikhaellopez.circularimageview.CircularImageView;
 
-import org.fruitsalad.R;
-import org.fruitsalad.roomdb.UserDatabase;
+import org.fruitsalad.greenplanet.R;
+import org.fruitsalad.greenplanet.roomdb.UserDatabase;
 import org.fruitsalad.utility.MockData;
 
 import ir.alirezaiyan.progressbar.LevelProgressBar;

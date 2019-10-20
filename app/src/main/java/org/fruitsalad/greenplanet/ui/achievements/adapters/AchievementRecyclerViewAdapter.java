@@ -9,7 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.fruitsalad.R;
+
+import org.fruitsalad.greenplanet.R;
 
 import java.util.List;
 

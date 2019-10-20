@@ -13,8 +13,8 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.google.android.material.tabs.TabLayout;
 
-import org.fruitsalad.R;
-import org.fruitsalad.ui.achievements.adapters.AchievementsPagerAdapter;
+import org.fruitsalad.greenplanet.R;
+import org.fruitsalad.greenplanet.ui.achievements.adapters.AchievementsPagerAdapter;
 
 public class AchievementsAndLeaderBoardFragment extends Fragment {
 
@@ -34,7 +34,7 @@ public class AchievementsAndLeaderBoardFragment extends Fragment {
         tabLayout.addTab(tabLayout.newTab());
         tabLayout.addTab(tabLayout.newTab());
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
-        tabLayout.setSelectedTabIndicatorColor(ContextCompat.getColor(getActivity(), R.color.red));
+        tabLayout.setSelectedTabIndicatorColor(ContextCompat.getColor(getActivity(), R.color.colorAccent));
 
         AchievementsPagerAdapter pager =
                 new AchievementsPagerAdapter(getChildFragmentManager(), tabLayout.getTabCount());

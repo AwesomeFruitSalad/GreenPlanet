@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 
 import androidx.fragment.app.Fragment;
 
-import org.fruitsalad.R;
+import org.fruitsalad.greenplanet.R;
 
 /**
  * A simple {@link Fragment} subclass.
